@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Android_app_01</string>
+    <string name="nama01">ridwanrahmn_</string>
+    <string name="nama01_desc">01</string>
+    <string name="nama02">Ridwan</string>
+    <string name="nama02_desc">02</string>
+    <string name="nama03">ridwanrahmn</string>
+    <string name="nama03_desc">03</string>
+
+    <string name="nama04">ridwanrahmn</string>
+    <string name="nama04_desc">04</string>
+    <string name="nama05">Rahmansyah</string>
+    <string name="nama05_desc">05</string>
+    <string name="nama06">ridwanrahmn_</string>
+    <string name="nama06_desc">06</string>
 </resources>
