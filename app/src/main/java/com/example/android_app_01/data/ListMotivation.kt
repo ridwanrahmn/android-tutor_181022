@@ -3,7 +3,7 @@ package com.example.android_app_01.data
 import com.example.android_app_01.R
 import com.example.android_app_01.model.Motivation
 
-class listMotivation() {
+class ListMotivation() {
     fun loadMotivation(): List<Motivation>{
         return listOf<Motivation>(
             Motivation(R.drawable.image1_1, R.string.affirmation1),
